@@ -1,0 +1,3 @@
+/home/joaoteixeira/Cadeiras/CV/CMakeFiles/rebuild_cache.dir
+/home/joaoteixeira/Cadeiras/CV/CMakeFiles/ex20.dir
+/home/joaoteixeira/Cadeiras/CV/CMakeFiles/edit_cache.dir
